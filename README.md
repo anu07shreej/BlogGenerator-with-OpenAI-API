@@ -1,1 +1,1 @@
-# BlogGenerator-with-OpenAI-API
+An intelligent system capable of generating engaging and coherent blog content with just a prompt from the user. This project helps create AI-driven content and demonstrates the practical application of the OpenAI API within a real-world scenario.
